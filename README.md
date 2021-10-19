@@ -1,6 +1,7 @@
-# Explorando Padrões de Projetos na Prática com Java
+# SPRING - API REST - Explorando Padrões de Projetos na Prática com Java".
 
-Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando o Spring Framework, são eles:
-- Singleton
-- Strategy/Repository
-- Facade
+Desenvolvi o projeto do zero seguindo as explicações e prática do professor [Venilton FalvoJr](https://github.com/falvojr).
+<br>
+Este projeto explorou alguns padrões usando Java com o Spring e uma API REST.
+
+# [SPRING - API REST - Explorando Padrões de Projetos na Prática com Java](https://github.com/eliezermoraesss/padroes-de-projeto-java-Singleton-Strategy_Facade)
